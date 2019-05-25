@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/src/com/ischoolbar/programmer/action/PaperAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ischoolbar/programmer/action/QuestionAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ischoolbar/programmer/dao/QuestionDao.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
